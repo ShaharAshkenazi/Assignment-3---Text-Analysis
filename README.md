@@ -1,3 +1,3 @@
-# Assignment-3 Text-Analysis
-Machine learning course HIT Assignment 3
+#Text-Analysis
+Machine learning course HIT Poject
 https://youtu.be/fWK7GCXQAt4
